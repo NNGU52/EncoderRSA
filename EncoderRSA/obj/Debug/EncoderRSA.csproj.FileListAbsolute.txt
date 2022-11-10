@@ -1,0 +1,18 @@
+c:\users\acer\documents\visual studio 2013\Projects\EncoderRSA\EncoderRSA\bin\Debug\EncoderRSA.exe.config
+c:\users\acer\documents\visual studio 2013\Projects\EncoderRSA\EncoderRSA\bin\Debug\EncoderRSA.exe
+c:\users\acer\documents\visual studio 2013\Projects\EncoderRSA\EncoderRSA\bin\Debug\EncoderRSA.pdb
+c:\users\acer\documents\visual studio 2013\Projects\EncoderRSA\EncoderRSA\obj\Debug\EncoderRSA.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2013\Projects\EncoderRSA\EncoderRSA\obj\Debug\EncoderRSA.Form1.resources
+c:\users\acer\documents\visual studio 2013\Projects\EncoderRSA\EncoderRSA\obj\Debug\EncoderRSA.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2013\Projects\EncoderRSA\EncoderRSA\obj\Debug\EncoderRSA.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2013\Projects\EncoderRSA\EncoderRSA\obj\Debug\EncoderRSA.exe
+c:\users\acer\documents\visual studio 2013\Projects\EncoderRSA\EncoderRSA\obj\Debug\EncoderRSA.pdb
+C:\Users\Acer\Desktop\ННГУ\EncoderRSA\EncoderRSA\bin\Debug\EncoderRSA.exe.config
+C:\Users\Acer\Desktop\ННГУ\EncoderRSA\EncoderRSA\obj\Debug\EncoderRSA.exe
+C:\Users\Acer\Desktop\ННГУ\EncoderRSA\EncoderRSA\obj\Debug\EncoderRSA.pdb
+C:\Users\Acer\Desktop\ННГУ\EncoderRSA\EncoderRSA\bin\Debug\EncoderRSA.exe
+C:\Users\Acer\Desktop\ННГУ\EncoderRSA\EncoderRSA\bin\Debug\EncoderRSA.pdb
+C:\Users\Acer\Desktop\ННГУ\EncoderRSA\EncoderRSA\obj\Debug\EncoderRSA.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\ННГУ\EncoderRSA\EncoderRSA\obj\Debug\EncoderRSA.Form1.resources
+C:\Users\Acer\Desktop\ННГУ\EncoderRSA\EncoderRSA\obj\Debug\EncoderRSA.Properties.Resources.resources
+C:\Users\Acer\Desktop\ННГУ\EncoderRSA\EncoderRSA\obj\Debug\EncoderRSA.csproj.GenerateResource.Cache
